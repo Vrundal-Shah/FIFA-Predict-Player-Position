@@ -1,2 +1,1 @@
-# vrundal.github.io
-DATA SCIENCE TUTORIAL
+# DATA SCIENCE TUTORIAL
